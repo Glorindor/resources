@@ -23,5 +23,10 @@
       "message": "hello from YOM Marketplace",
       "matchmaker_url": "https://preview.yom.community/",
       "whitelisted_domain": "https://white-plant-02a581b03.azurestaticapps.net/"
+   },
+   "backup": {
+      "message": "hello from backup",
+      "matchmaker_url": "http://20.223.218.232/",
+      "whitelisted_domain": "https://localhost:*"
    }
 }
